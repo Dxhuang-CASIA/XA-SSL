@@ -4,7 +4,7 @@
 
 <a href="https://arxiv.org/pdf/2602.11536"><img src='https://img.shields.io/badge/arXiv-Preprint-red' alt='Paper PDF'></a>
 <a href="https://arxiv.org/pdf/2508.10794"><img src='https://img.shields.io/badge/AAAI_2026-Conference-blue' alt='Paper PDF'></a>
-<a href='https://huggingface.co/datasets/Luffy503/PreCT-160K'><img src='https://img.shields.io/badge/Dataset-XA--170K-green' alt='Dataset'></a>
+<a href="https://huggingface.co/datasets/waha2000huang/XA-170K"><img src='https://img.shields.io/badge/Dataset-XA--170K-green' alt='Dataset'></a>
 
 <p>
     <b>Official implementation of ''<a href='https://arxiv.org/pdf/2602.11536'>Vascular Anatomy-aware Self-supervised Pre-training for X-ray Angiogram Analysis</a>''</b>
